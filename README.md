@@ -55,14 +55,22 @@ To create a story-based NFT ecosystem that connects art, lore, and community —
 👥 Team
 
 Founder on X:	@Alota_the_great
+
 Developer on X:	@Aot_ayo
+
 Artist on X:	@Fruitles_Artist
+
 Writer on X:	@Oxaro_ada
-Social Manager on X:
-Collab Managers on X:
-Community Lead on X:
-Community Mod on X:
-Discord Admin on X: @
+
+Social Manager on X: @hardemiy
+
+Collab Managers on X:@ix_tinna, @somitonye
+
+Community Lead on X: @DayoKeem
+
+Community Mod on X: @dreamcaster365
+
+Discord Admin on X: @Leno3z4
 
 
 ---
@@ -83,6 +91,7 @@ Licensed under the MIT License.
 Reach us via
 X: @Stonedmonmies
 Email: stonedmonmies@gmail.com
+Join our discord community, link in our X Bio.
 
 
 ---
