@@ -89,8 +89,11 @@ Licensed under the MIT License.
 
 ⚡ Contact
 Reach us via
+
 X: @Stonedmonmies
+
 Email: stonedmonmies@gmail.com
+
 Join our discord community, link in our X Bio.
 
 
