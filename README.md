@@ -1,101 +1,90 @@
 # StonedMonmies
+---
 A narrative-driven NFT collection bridging art, lore, and the Monad ecosystem.
 
 # About StonedMommies
+---
 
-Website: https://stonedmonmies.vercel.app/
+Introducing StonedMonmies, a mythology-inspired NFT project set to launch on Monad Mainnet.
 
-Network: Monad Mainnet (soon)
+Our vision:
 
-Built With: React + TailwindCSS + Vercel
+> To create a lore-rich NFT universe where art, humor, and culture merge across time — past, present, and future.
 
+🎨 Theme: Egyptian mystic, sand motion, and mummy-inspired lore
+
+The site is a React-built landing page, designed for storytelling and art exhibition.
+
+It serves as the official hub where users can:
+
+- Learn about the StonedMommies universe
+
+- Explore the NFT art gallery and view the collection 
+
+- Read about the team
+
+- Access the Mainnet mint link (once live)
 
 ---
 
-🧩 About the Project
+👥 Core Team
+---
 
-StonedMonmies is a lore-driven NFT collection that fuses ancient Egyptian mysticism with futuristic blockchain mythology.
+1. Founder: X: https://x.com/Alota_the_great/ GitHub: https://github.com/Alota-the-great
 
-The project tells the story of eight explorers who uncover Zerzura, a hidden city where history, time, and code intertwine.
+2. Developer: X: https://x.com/Aot_ayo/ GitHub: https://github.com/adiiaot
 
-Each NFT represents a Monmy, an awakened mummy holding traits tied to its artifact and story.
+3. Artist: X: https://x.com/Fruitles_Artist/ @Fruitles_Artist
 
+4. Writer: X: https://x.com/Oxaro_ada/ @Oxaro_ada
+
+5. Collab Managers: X: https://x.com/ix_tinna/ @ix_tinna & X: https://x.com/somitonye/ @somitonye
+
+6. Social Manager: X: https://x.com/hardemiy/ @hardemiy
+
+7. Community Lead: X: https://x.com/DayoKeem/  @DayoKeem
+
+8. Community Mod: X: https://x.com/dreamcaster365/ @dreamcaster365
+
+9. Discord Admin: X: https://x.com/Leno3z4/ @Leno3z4
 
 ---
 
-⚙️ Tech Stack
-React + TailwindCSS (Frontend)
-Vercel (Hosting)
-Namecheap (.xyz Domain)
-GitHub (Version Control)
-Kingdomly (NFT Mint)
-
+💎 Our Goal
 ---
 
-💡 Vision
+We’d love to collaborate with the Monad ecosystem and gain Builder or Project visibility access, so we can:
 
-To create a story-based NFT ecosystem that connects art, lore, and community — while honoring the decentralized spirit of Monad.
+Align our project with Monad’s creative direction
 
----
+Receive early guidance for Mainnet mint setup
 
-🧱 Roadmap
-
-✅ Launch landing page
-
-🧩 Upload NFT collection metadata
-
-🌐 Mint on Monad Mainnet
-
-🫱 Collaborations & community expansion
-
-🪄 Alpha access & lore extension drops
-
----
-
-👥 Team
-
-Founder on X:	@Alota_the_great
-
-Developer on X:	@Aot_ayo
-
-Artist on X:	@Fruitles_Artist
-
-Writer on X:	@Oxaro_ada
-
-Social Manager on X: @hardemiy
-
-Collab Managers on X:@ix_tinna, @somitonye
-
-Community Lead on X: @DayoKeem
-
-Community Mod on X: @dreamcaster365
-
-Discord Admin on X: @Leno3z4
-
+Contribute to the Monad NFT art culture through storytelling
 
 ---
 
 🔗 Links
+---
 Website: https://stonedmonmies.vercel.app/
 
-X (Twitter): https://x.com/stonedmonmies
----
+X: https://x.com/stonedmonmies
 
-🧿 License
+Discord Community: https://discord.gg/stonedmonmies
 
-Licensed under the MIT License.
-© 2025 StonedMommies Team
+
 ---
 
 ⚡ Contact
+---
 Reach us via
-
-X: @Stonedmonmies
 
 Email: stonedmonmies@gmail.com
 
-Join our discord community, link in our X Bio.
-
-
 ---
 > We are the Past, the Present, and the Future.
+>
+> 
+🧿 License
+---
+Licensed under the MIT License.
+© 2025 StonedMommies Team
