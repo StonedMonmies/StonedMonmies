@@ -5,7 +5,9 @@ A narrative-driven NFT collection bridging art, lore, and the Monad ecosystem.
 # About StonedMommies
 ---
 
-Introducing StonedMonmies, a mythology-inspired NFT project set to launch on Monad Mainnet.
+Introducing StonedMonmies, an NFT Community on Monad, where myth meets chain, art meets soul.
+Mint, collect, and vibe with the Monmies 
+
 
 Our vision:
 
@@ -79,6 +81,7 @@ Discord Community: https://discord.gg/stonedmonmies
 Reach us via
 
 Email: stonedmonmies@gmail.com
+Linktree: https://linktr.ee/StonedMonmies
 
 ---
 > We are the Past, the Present, and the Future.
